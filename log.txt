@@ -236,3 +236,13 @@ Name of the venue:Wrigley Field
 Venue location:Chicago
 Date of the Event:08/14/2020
 -------------------------------------------------------
+-------------------------------------------------------
+Movie Title: The Proposal
+Year of Release: 2009
+IMDB Rating: 6.7
+Rotten Tomatoes Rating: 44%
+Country Movie was Produced: USA
+Movie Language: English
+Movie Plot: A pushy boss forces her young assistant to marry her in order to keep her visa status in the U.S. and avoid deportation to Canada.
+Movie Actors: Sandra Bullock, Ryan Reynolds, Mary Steenburgen, Craig T. Nelson
+-------------------------------------------------------
