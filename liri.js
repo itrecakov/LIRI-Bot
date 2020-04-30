@@ -141,17 +141,14 @@ function movieThis(input) {
 
 function doThis() {
   fs.readFile("random.txt", "utf8", function (err, data) {
-    // Then split it by commas (to make it more readable)
     var dataArr = data.split(",");
     // console.log(dataArr);
 
-    // assign variable to each data output from array for future use
     var command = dataArr[0];
     var input = dataArr[1];
     // console.log(command);
     // console.log(input);
 
-    //copied down switch commands from top
     switch (command) {
       case "concert-this":
         if (input === undefined) {
